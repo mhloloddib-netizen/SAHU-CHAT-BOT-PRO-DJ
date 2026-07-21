@@ -43,9 +43,9 @@ module.exports.run = async function({ api, event }) {
 │ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ├───────────────
 │📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸:
-│https://fb.com/Uhasbbz
+│https://fb.com/Picci.Tuhin047
 │💬 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽:
-│https://wa.me/01882333052
+│https://wa.me/01XXXXXXXXX
 └───────────────⭓
 
 ┌───────────────⭓
