@@ -62,7 +62,7 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 ╰───────⭓
 
 ❤️ 𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 🌺
- 😍─꯭─⃝‌‌𝐓𝐮𝐡𝐢𝐧 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭😘`;
+ 😍──꯭─⃝‌‌জাতির ক্রাশ😘`;
  
  // 🔹 এখানে আপনার ফটো Imgur লিংক করে বসাবেন ✅
 
