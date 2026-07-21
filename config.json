@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "DEV TUHIN",
   "version": "2.0.1",
   "language": "en",
   "DeveloperMode": false,
@@ -10,19 +10,16 @@
   "EMAIL": "your_email",
   "PASSWORD": "your_password",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "BOTNAME": "─꯭─⃝‌‌জাতির ক্রাশ",
   "PREFIX": "/",
 
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "61586663640809",
+    "61590432692323",
     "100044713412032"
   ],
-  "NDH": [
-    "100044713412032"
-  ],
+  "NDH": [],
   "adminOnly": false,
   "ndhOnly": false,
   "adminPaOnly": false,
@@ -131,4 +128,5 @@
       "enable": true
     }
   }
-}
+  }
+
