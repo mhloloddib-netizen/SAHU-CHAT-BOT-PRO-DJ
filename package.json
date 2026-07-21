@@ -4,7 +4,7 @@
   "description": "Made By DEV TUHIN",
   "main": "Main.js",
   "engines": {
-    "node": ">=22.19.0",
+    "node": "22.x",
     "npm": ">=10.0.0 <13.0.0"
   },
   "scripts": {
@@ -94,4 +94,4 @@
     "youtubei.js": "^1.4.5",
     "ytsr": "^3.8.0"
   }
-  }
+}
