@@ -45,7 +45,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "by": "কিরে তুই কই যাস কোন মেয়ের সাথে চিপায় যাবি..!🌚🌶️",
     "ami shahadat": "হ্যা বস কেমন আছেন..?☺️",
     "bot er baccha": "আমার বাচ্চা তো তোমার গার্লফ্রেন্ডের পেটে..!!🌚⛏️",
-    "tor nam ki": "MY NAME IS ─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭💖",
+    "tor nam ki": "MY NAME IS ─꯭─꯭─⃝‌‌জাতির ক্রাশ"💖",
     "pic de": "এন থেকে সর দুরে গিয়া মর😒",
     "cudi": "এত চোদা চুদি করস কেনো..!🥱🌝🌚",
     "bal": "রাগ করে না সোনা পাখি 🥰",
@@ -61,6 +61,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "umm": "এতো Umm কেনো জানু… কিছু বলবা? 😉",
     "hmm": "Hmmm কিসের হুমম জানু 🥵",
     "love": "Love করলে সরাসরি সাহু বস কে বল জানু 😻🔥"
+    "pc": "SAME TO YOU😊",
   };
 
   if (!responses[msg]) return;
