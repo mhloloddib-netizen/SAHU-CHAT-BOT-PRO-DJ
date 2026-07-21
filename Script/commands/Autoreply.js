@@ -78,7 +78,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "ajk rasta": "রাস্তা এখন একদম ফাঁকা আছে আমাদের।",    
     "kisu chinta": "চিন্তা কোরো না একদম, সব ঠিক হবে।",
     "tmr din ta": "আজকের দিনটা বেশ ব্যস্ততায় কাটলো আমার।",
-    "plz kisu koro": "আমি চেষ্টা করছি কিছু একটা করার এখানে।"
+    "plz kisu koro": "আমি চেষ্টা করছি কিছু একটা করার এখানে।",
   };
 
   if (!responses[msg]) return;
