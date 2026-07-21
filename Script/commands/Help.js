@@ -44,7 +44,7 @@ module.exports.languages = {
 // 🔹 এখানে আপনার ফটো Imgur লিংক করে বসাবেন ✅
 const helpImages = [
     "https://i.ibb.co.com/C516ZrNC/a4038f4e-388c-4e9a-b714-4a00625beed0.jpg",
-    "https://i.ibb.co.com/d44NzdK3/2d27a3a4-e45e-438b-90fa-4a7de36c4261.jpg",
+    "https://i.ibb.co.com/Z6Zzwt70/fddb2275-2e3e-45f9-992f-ba7ca5f2278d.jpg",
     "https://i.ibb.co.com/C516ZrNC/a4038f4e-388c-4e9a-b714-4a00625beed0.jpg",
     "https://i.ibb.co.com/d44NzdK3/2d27a3a4-e45e-438b-90fa-4a7de36c4261.jpg"
 ];
