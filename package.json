@@ -1,7 +1,7 @@
 {
-  "name": "shahadat-chat-bot",
+  "name": "tuhin-chat-bot",
   "version": "2.0.1",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By DEV TUHIN",
   "main": "Main.js",
   "engines": {
     "node": "20.x",
@@ -79,7 +79,7 @@
     "qrcode": "^1.5.3",
     "request": "^2.88.2",
     "sahu-fca": "latest",
-    "sanitize-html": "^2.12.1",
+    "sanitize-html": "2.12.1",
     "sequelize": "^6.21.4",
     "shaon-videos-downloader": "^1.0.1",
     "sqlite3": "^5.1.7",
@@ -94,4 +94,5 @@
     "youtubei.js": "^1.4.5",
     "ytsr": "^3.8.0"
   }
-}
+  }
+
