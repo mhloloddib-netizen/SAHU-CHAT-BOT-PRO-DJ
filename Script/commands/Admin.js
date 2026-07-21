@@ -22,15 +22,23 @@ module.exports.run = async function({ api, event }) {
 ┌───────────────⭓
 │ 𝗢𝗪𝗡𝗘𝗥 𝗗𝗘𝗧𝗔𝗜𝗟𝗦
 ├───────────────
-│👤 𝐍𝐚𝐦𝐞 : SHAHADAT SAHU
-│🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : Maile
-│❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : Single
-│🎂 𝐀𝐠𝐞 : 18+
-│🕌 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 : Islam
-│🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : HSC (2026)
-│🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : Khagrachori 
+│👤 𝐍𝐚𝐦𝐞 : 𝗧𝗨𝗛𝗜𝗡 𝗦𝗛𝗘𝗜𝗞𝗛 
+│🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : 𝗠𝗮𝗹𝗲 
+│❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : 𝗠𝗶𝗻𝗴𝗹𝗲 
+│🎂 𝐀𝐠𝐞 : 17+
+│🕌 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 : 𝗜𝘀𝗹𝗮𝗺 
+│🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : (𝗖𝗹𝗮𝘀𝘀 9)
+│🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : 𝗦𝗶𝗿𝗮𝗷𝗴𝗮𝗻𝗷 
 └───────────────⭓
 
+┌───────────────⭓
+│ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
+├───────────────
+│📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸:
+│https://fb.com/61590432692323
+│💬 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽:
+│https://wa.me/01XXXXXXXXX
+└───────────────⭓
 ┌───────────────⭓
 │ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ├───────────────
@@ -49,7 +57,7 @@ module.exports.run = async function({ api, event }) {
  attachment: fs.createReadStream(__dirname + "/cache/owner.jpg")
  }, event.threadID, () => fs.unlinkSync(__dirname + "/cache/owner.jpg"));
 
- return request("https://i.imgur.com/g3hlQ0Z.jpeg") //এখানে আপনার ছবির Imgur link বসাবেন✅
+ return request("https://i.ibb.co/yc185575/Picsart-26-03-27-22-31-47-765.jpg") //এখানে আপনার ছবির Imgur link বসাবেন✅
  .pipe(fs.createWriteStream(__dirname + '/cache/owner.jpg'))
  .on('close', () => callback());
 };
