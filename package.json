@@ -4,7 +4,7 @@
   "description": "Made By DEV TUHIN",
   "main": "Main.js",
   "engines": {
-    "node": ">=22.19.0",
+    "node": "20.x",
     "npm": ">=10.0.0 <13.0.0"
   },
   "scripts": {
@@ -41,7 +41,7 @@
     "agentkeepalive": "^4.3.0",
     "axios": "^1.6.0",
     "better-sqlite3": "^9.4.0",
-    "canvas": "^2.9.3",
+    "canvas": "^2.11.2",
     "cheerio": "^1.0.0-rc.12",
     "chalk": "^4.1.2",
     "compression": "^1.7.4",
@@ -93,5 +93,8 @@
     "ytdl-core": "^4.11.2",
     "youtubei.js": "^1.4.5",
     "ytsr": "^3.8.0"
+  },
+  "resolutions": {
+    "undici": "^6.21.1"
   }
-}
+  }
