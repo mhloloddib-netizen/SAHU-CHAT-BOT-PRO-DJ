@@ -217,3 +217,19 @@ __________
 </p>
 
 **I hope you enjoy my fork! Thank you for supporting the cyber chat bot community!**
+
+## Gemini AI Chat
+
+The bot includes a `.ai` command powered by Google Gemini.
+
+1. Copy `.env.example` to `.env`.
+2. Add your own Gemini API key to `.env`:
+
+```env
+GEMINI_API_KEY=your_gemini_api_key_here
+```
+
+3. Start the bot with `npm start`.
+4. In Messenger, use `.ai your question`.
+
+Use `.ai reset` to clear the conversation memory for the current group. Never commit or share `.env` or your API key.
