@@ -6,7 +6,7 @@ module.exports.config = {
     name: 'autosent',
     version: '1.0.0',
     hasPermssion: 0,
-    credits: 'SHAHADAT SAHU',
+    credits: 'TUHIN',
     description: 'Automatically sends messages at scheduled times (BD Time)',
     commandCategory: 'group messenger',
     usages: '[]',

@@ -2,7 +2,7 @@ module.exports.config = {
   name: "pp",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "TUHIN",
   description: "Get profile picture",
   commandCategory: "Users",
   cooldowns: 0,

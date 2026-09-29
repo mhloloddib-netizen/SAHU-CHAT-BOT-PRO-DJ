@@ -1,7 +1,7 @@
 module.exports.config = {
   name: "pending",
   version: "1.0.0",
-  credits: "SHAHADAT SAHU",
+  credits: "TUHIN",
   hasPermssion: 2,
   description: "Manage bot's pending group requests",
   commandCategory: "system",

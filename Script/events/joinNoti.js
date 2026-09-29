@@ -2,7 +2,7 @@ module.exports.config = {
   name: "joinnoti",
   eventType: ["log:subscribe"],
   version: "1.0.0",
-  credits: "SHAHADAT SAHU",
+  credits: "TUHIN",
   description: "Welcome message with optional image/video",
   dependencies: {
     "fs-extra": "",

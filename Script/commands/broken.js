@@ -2,7 +2,7 @@ module.exports.config = {
  name: "broken",
  version: "1.0.0",
  hasPermssion: 2,
- credits: "SHAHADAT SAHU",
+ credits: "TUHIN",
  description: "tag 1 person and unlimited msg.",
  commandCategory: "admin",
  usages: "please @mention",

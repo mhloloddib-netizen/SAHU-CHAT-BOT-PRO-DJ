@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "config",
 	version: "1.0.0",
 	hasPermssion: 2,
-	credits: "SHAHADAT SAHU",
+	credits: "TUHIN",
 	description: "config bot!",
 	commandCategory: "admin",
 	cooldowns: 0
