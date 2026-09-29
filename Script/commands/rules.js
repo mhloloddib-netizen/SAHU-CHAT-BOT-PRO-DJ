@@ -2,7 +2,7 @@ module.exports.config = {
  name: "rules",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "SHAHADAT SAHU",
+ credits: "TUHIN",
  description: "Send group rules",
  commandCategory: "information",
  usages: "rules",

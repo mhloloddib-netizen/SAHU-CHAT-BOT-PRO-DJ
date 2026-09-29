@@ -2,7 +2,7 @@ module.exports = {
   config: {
     name: "fp",
     version: "1.0.0",
-    credits: "SHAHADAT SAHU",
+    credits: "TUHIN",
     countDown: 5,
     hasPermssion: 0,
     description: "PROFILE image",

@@ -2,7 +2,7 @@ module.exports.config = {
     name: "friends",
     version: "1.0.0",
     permission: 2,
-    credits: "SHAHADAT SAHU",
+    credits: "TUHIN",
     description: "list friends",
     prefix: true,
     category: "operator",

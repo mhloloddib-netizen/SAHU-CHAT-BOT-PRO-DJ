@@ -2,7 +2,7 @@ module.exports.config = {
   name: "font",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "TUHIN",
   description: "Convert text into fonts",
   commandCategory: "Others",
   usages: "<1-10> <text>",
@@ -37,7 +37,7 @@ module.exports.run = async ({ event, api, args }) => {
 ┃ 5) 🆂🅷🅰🅷🅰🅳🅰🆃 🆂🅰🅷🆄
 ┃ 6) 𝙎 𝙃 𝘼 𝙃 𝘼 𝘿 𝘼 𝙏 𝙎 𝘼 𝙃 𝙐
 ┃ 7) 𝗦𝗛𝗔𝗛𝗔𝗗𝗔𝗧 𝗦𝗔𝗛𝗨
-┃ 8) 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔
+┃ 8) 𝐓𝐔𝐇𝐈𝐍 𝐒𝐀𝐇𝐔
 ┃ 9) 𝖲𝖧𝖠𝖧𝖠𝖣𝖠𝖳 𝖲𝖠𝖧𝖴
 ┃10) 𝕊ℍ𝔸ℍ𝔸𝔻𝔸𝕋 𝕊𝔸ℍ𝕌
 ┣━━━━━━━━━━━━━━━━━━━┫

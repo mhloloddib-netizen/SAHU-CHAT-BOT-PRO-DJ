@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "emoji",
 	version: "1.0.0", 
 	hasPermssion: 0,
-	credits: "SHAHADAT SAHU",
+	credits: "TUHIN",
 	description: "Change your group Emoji",
 	commandCategory: "Box", 
 	usages: "groupemoji [emoji]", 

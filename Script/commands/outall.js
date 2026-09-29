@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "outall",
 	version: "1.0.0",
 	hasPermssion: 2,
-	credits: "SHAHADAT SAHU",
+	credits: "TUHIN",
 	description: "Send messages to groups!",
 	commandCategory: "Admin",
 	usages: "sendnoti [Text]",

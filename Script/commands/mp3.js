@@ -13,7 +13,7 @@ module.exports.config = {
   name: "mp3",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "TUHIN",
   description: "Convert video to MP3",
   commandCategory: "media",
   usages: "[reply video/link]",

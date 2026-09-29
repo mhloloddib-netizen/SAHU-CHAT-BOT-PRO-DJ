@@ -2,7 +2,7 @@ module.exports.config = {
  name: "settings",
  version: "1.0.0",
  hasPermssion: 2,
- credits: "SHAHADAT SAHU",
+ credits: "TUHIN",
  description: "",
  commandCategory: "admin",
  usages: "",

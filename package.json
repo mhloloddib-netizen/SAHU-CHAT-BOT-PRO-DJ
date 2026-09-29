@@ -14,25 +14,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT.git"
+    "url": "https://github.com/shahadat-sahu/TUHIN-CHAT-BOT.git"
   },
   "keywords": [
     "bot",
     "facebook",
-    "shahadatproject",
+    "tuhinproject",
     "messenger",
     "javascript",
     "shadat",
     "ullash",
-    "shahadat sahu",
-    "shahadat chat bot"
+    "tuhin",
+    "tuhin chat bot"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "TUHIN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
+    "url": "https://github.com/shahadat-sahu/TUHIN-CHAT-BOT/issues"
   },
-  "homepage": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues",
+  "homepage": "https://github.com/shahadat-sahu/TUHIN-CHAT-BOT/issues",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.2",
     "@miraipr0ject/assets": "^1.0.9",

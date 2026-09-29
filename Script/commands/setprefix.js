@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "setprefix",
 	version: "1.0.1",
 	hasPermssion: 2,
-	credits: "SHAHADAT SAHU",
+	credits: "TUHIN",
 	description: "Reset group prefix",
 	commandCategory: "Group",
 	usages: "[prefix/reset]",

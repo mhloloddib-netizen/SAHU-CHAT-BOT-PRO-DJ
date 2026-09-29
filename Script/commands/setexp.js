@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "setexp",
 	version: "0.0.1",
 	hasPermssion: 2,
-	credits: "SHAHADAT SAHU",
+	credits: "TUHIN",
 	description: "change the expien of yourself or the person being tagged",
 	commandCategory: "system",
 	usages: "setexp [Tag]",

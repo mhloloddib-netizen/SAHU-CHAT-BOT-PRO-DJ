@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "post",
 	version: "1.0.0",
 	hasPermssion: 2,
-	credits: "SHAHADAT SAHU",
+	credits: "TUHIN",
 	description: "Create a new post in chat bot",
 	commandCategory: "Facebook Post",
 	cooldowns: 5
